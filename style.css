@@ -1,23 +1,23 @@
 body {
   text-align: center;
-  font-family: DM Sans;
+  font-family: "DM Sans", sans-serif;
   margin: 0;
   background: #ffffff;
   color: #000000;
-  font-size: 1.25em;
+  font-size: 1.25rem;
 }
 
 .site-title {
   text-align: center;
-  font-family: Inter;
   padding: 20px 20px;
   background: #ffffff;
   color: #000000;
 }
 
 .site-title h1 {
+  font-family: "Inter", sans-serif;
   text-align: center;  
-  font-size: 2.75em;
+  font-size: 2.75rem;
   margin: 0;
 }
 
@@ -29,8 +29,9 @@ body {
 }
 
 .intro h2, .circles h2 {
+  font-family: "Inter", sans-serif;
   text-align: center;
-  font-size: 2.25em;
+  font-size: 2.25rem;
   margin: 0;
 }
 
@@ -51,8 +52,9 @@ body {
 }
 
 .card h3 {
+  font-family: "Inter", sans-serif;
   text-align: center;
-  font-size: 1.75em;
+  font-size: 1.75rem;
   margin: 0;
 }
 
