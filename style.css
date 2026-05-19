@@ -5,7 +5,7 @@ body {
   color: #000000;
 }
 
-.header {
+.site-title {
   text-align: center;
   font-family: Inter;
   padding: 80px 20px;
@@ -13,7 +13,7 @@ body {
   color: #000000;
 }
 
-.header h1 {
+.site-title h1 {
   font-size: 3em;
   margin: 0;
 }
