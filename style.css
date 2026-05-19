@@ -1,22 +1,24 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: DM Sans;
   margin: 0;
-  background: #0b0f1a;
-  color: #eaeaea;
+  background: #ffffff;
+  color: #000000;
 }
 
-.hero {
+.header {
   text-align: center;
+  font-family: Inter;
   padding: 80px 20px;
-  background: linear-gradient(135deg, #1b2a4a, #0b0f1a);
+  background: #ffffff;
+  color: #000000;
 }
 
-.hero h1 {
+.header h1 {
   font-size: 3em;
   margin: 0;
 }
 
-.intro, .projects {
+.intro, .circles {
   max-width: 900px;
   margin: 40px auto;
   padding: 0 20px;
@@ -31,20 +33,18 @@ body {
 .card {
   display: block;
   padding: 20px;
-  background: #141c2f;
+  background: #ffffff;
   border-radius: 12px;
   text-decoration: none;
-  color: white;
+  color: #000000;
   transition: transform 0.2s ease, background 0.2s ease;
 }
 
 .card:hover {
   transform: translateY(-4px);
-  background: #1c2a45;
+  background: #ffffff;
 }
 
-footer {
-  text-align: center;
-  padding: 40px;
-  opacity: 0.6;
+a {
+  color: #008080;
 }
